@@ -21,6 +21,28 @@
 		216B936E18A0413500563FC8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 216B935018A0413500563FC8 /* UIKit.framework */; };
 		216B937618A0413500563FC8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 216B937418A0413500563FC8 /* InfoPlist.strings */; };
 		216B937818A0413500563FC8 /* VenmoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 216B937718A0413500563FC8 /* VenmoTests.m */; };
+		216B938318A0418900563FC8 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 216B938218A0418900563FC8 /* Card.m */; };
+		216B938418A0418900563FC8 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = 216B938218A0418900563FC8 /* Card.m */; };
+		216B939018A0751500563FC8 /* VDKAmex.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938618A0751500563FC8 /* VDKAmex.png */; };
+		216B939118A0751500563FC8 /* VDKAmex.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938618A0751500563FC8 /* VDKAmex.png */; };
+		216B939218A0751500563FC8 /* VDKAmexCVV.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938718A0751500563FC8 /* VDKAmexCVV.png */; };
+		216B939318A0751500563FC8 /* VDKAmexCVV.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938718A0751500563FC8 /* VDKAmexCVV.png */; };
+		216B939418A0751500563FC8 /* VDKCreditCard.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938818A0751500563FC8 /* VDKCreditCard.png */; };
+		216B939518A0751500563FC8 /* VDKCreditCard.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938818A0751500563FC8 /* VDKCreditCard.png */; };
+		216B939618A0751500563FC8 /* VDKCVV.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938918A0751500563FC8 /* VDKCVV.png */; };
+		216B939718A0751500563FC8 /* VDKCVV.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938918A0751500563FC8 /* VDKCVV.png */; };
+		216B939818A0751500563FC8 /* VDKDinersClub.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938A18A0751500563FC8 /* VDKDinersClub.png */; };
+		216B939918A0751500563FC8 /* VDKDinersClub.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938A18A0751500563FC8 /* VDKDinersClub.png */; };
+		216B939A18A0751500563FC8 /* VDKDiscover.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938B18A0751500563FC8 /* VDKDiscover.png */; };
+		216B939B18A0751500563FC8 /* VDKDiscover.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938B18A0751500563FC8 /* VDKDiscover.png */; };
+		216B939C18A0751500563FC8 /* VDKGenericCard.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938C18A0751500563FC8 /* VDKGenericCard.png */; };
+		216B939D18A0751500563FC8 /* VDKGenericCard.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938C18A0751500563FC8 /* VDKGenericCard.png */; };
+		216B939E18A0751500563FC8 /* VDKJCB.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938D18A0751500563FC8 /* VDKJCB.png */; };
+		216B939F18A0751500563FC8 /* VDKJCB.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938D18A0751500563FC8 /* VDKJCB.png */; };
+		216B93A018A0751500563FC8 /* VDKMastercard.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938E18A0751500563FC8 /* VDKMastercard.png */; };
+		216B93A118A0751500563FC8 /* VDKMastercard.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938E18A0751500563FC8 /* VDKMastercard.png */; };
+		216B93A218A0751500563FC8 /* VDKVisa.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938F18A0751500563FC8 /* VDKVisa.png */; };
+		216B93A318A0751500563FC8 /* VDKVisa.png in Resources */ = {isa = PBXBuildFile; fileRef = 216B938F18A0751500563FC8 /* VDKVisa.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +75,18 @@
 		216B937318A0413500563FC8 /* VenmoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "VenmoTests-Info.plist"; sourceTree = "<group>"; };
 		216B937518A0413500563FC8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		216B937718A0413500563FC8 /* VenmoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VenmoTests.m; sourceTree = "<group>"; };
+		216B938118A0418900563FC8 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		216B938218A0418900563FC8 /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		216B938618A0751500563FC8 /* VDKAmex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKAmex.png; sourceTree = "<group>"; };
+		216B938718A0751500563FC8 /* VDKAmexCVV.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKAmexCVV.png; sourceTree = "<group>"; };
+		216B938818A0751500563FC8 /* VDKCreditCard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKCreditCard.png; sourceTree = "<group>"; };
+		216B938918A0751500563FC8 /* VDKCVV.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKCVV.png; sourceTree = "<group>"; };
+		216B938A18A0751500563FC8 /* VDKDinersClub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKDinersClub.png; sourceTree = "<group>"; };
+		216B938B18A0751500563FC8 /* VDKDiscover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKDiscover.png; sourceTree = "<group>"; };
+		216B938C18A0751500563FC8 /* VDKGenericCard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKGenericCard.png; sourceTree = "<group>"; };
+		216B938D18A0751500563FC8 /* VDKJCB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKJCB.png; sourceTree = "<group>"; };
+		216B938E18A0751500563FC8 /* VDKMastercard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKMastercard.png; sourceTree = "<group>"; };
+		216B938F18A0751500563FC8 /* VDKVisa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VDKVisa.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +146,8 @@
 		216B935218A0413500563FC8 /* Venmo */ = {
 			isa = PBXGroup;
 			children = (
+				216B938118A0418900563FC8 /* Card.h */,
+				216B938218A0418900563FC8 /* Card.m */,
 				216B935B18A0413500563FC8 /* AppDelegate.h */,
 				216B935C18A0413500563FC8 /* AppDelegate.m */,
 				216B935E18A0413500563FC8 /* Main.storyboard */,
@@ -126,6 +162,7 @@
 		216B935318A0413500563FC8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				216B938518A0751500563FC8 /* assets */,
 				216B935418A0413500563FC8 /* Venmo-Info.plist */,
 				216B935518A0413500563FC8 /* InfoPlist.strings */,
 				216B935818A0413500563FC8 /* main.m */,
@@ -150,6 +187,23 @@
 				216B937418A0413500563FC8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		216B938518A0751500563FC8 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				216B938618A0751500563FC8 /* VDKAmex.png */,
+				216B938718A0751500563FC8 /* VDKAmexCVV.png */,
+				216B938818A0751500563FC8 /* VDKCreditCard.png */,
+				216B938918A0751500563FC8 /* VDKCVV.png */,
+				216B938A18A0751500563FC8 /* VDKDinersClub.png */,
+				216B938B18A0751500563FC8 /* VDKDiscover.png */,
+				216B938C18A0751500563FC8 /* VDKGenericCard.png */,
+				216B938D18A0751500563FC8 /* VDKJCB.png */,
+				216B938E18A0751500563FC8 /* VDKMastercard.png */,
+				216B938F18A0751500563FC8 /* VDKVisa.png */,
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,8 +282,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				216B939618A0751500563FC8 /* VDKCVV.png in Resources */,
+				216B939A18A0751500563FC8 /* VDKDiscover.png in Resources */,
 				216B936518A0413500563FC8 /* Images.xcassets in Resources */,
+				216B93A018A0751500563FC8 /* VDKMastercard.png in Resources */,
+				216B939218A0751500563FC8 /* VDKAmexCVV.png in Resources */,
+				216B939418A0751500563FC8 /* VDKCreditCard.png in Resources */,
+				216B939818A0751500563FC8 /* VDKDinersClub.png in Resources */,
 				216B935718A0413500563FC8 /* InfoPlist.strings in Resources */,
+				216B939C18A0751500563FC8 /* VDKGenericCard.png in Resources */,
+				216B939018A0751500563FC8 /* VDKAmex.png in Resources */,
+				216B93A218A0751500563FC8 /* VDKVisa.png in Resources */,
+				216B939E18A0751500563FC8 /* VDKJCB.png in Resources */,
 				216B936018A0413500563FC8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -238,7 +302,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				216B939118A0751500563FC8 /* VDKAmex.png in Resources */,
+				216B939D18A0751500563FC8 /* VDKGenericCard.png in Resources */,
+				216B939F18A0751500563FC8 /* VDKJCB.png in Resources */,
+				216B93A118A0751500563FC8 /* VDKMastercard.png in Resources */,
+				216B939318A0751500563FC8 /* VDKAmexCVV.png in Resources */,
+				216B939518A0751500563FC8 /* VDKCreditCard.png in Resources */,
 				216B937618A0413500563FC8 /* InfoPlist.strings in Resources */,
+				216B939B18A0751500563FC8 /* VDKDiscover.png in Resources */,
+				216B93A318A0751500563FC8 /* VDKVisa.png in Resources */,
+				216B939918A0751500563FC8 /* VDKDinersClub.png in Resources */,
+				216B939718A0751500563FC8 /* VDKCVV.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +326,7 @@
 				216B936318A0413500563FC8 /* ViewController.m in Sources */,
 				216B935D18A0413500563FC8 /* AppDelegate.m in Sources */,
 				216B935918A0413500563FC8 /* main.m in Sources */,
+				216B938318A0418900563FC8 /* Card.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +335,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				216B937818A0413500563FC8 /* VenmoTests.m in Sources */,
+				216B938418A0418900563FC8 /* Card.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -460,6 +536,7 @@
 				216B937D18A0413500563FC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		216B937E18A0413500563FC8 /* Build configuration list for PBXNativeTarget "VenmoTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +545,7 @@
 				216B938018A0413500563FC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -7,7 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Card.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITextFieldDelegate>
+@property (weak, nonatomic) IBOutlet UIImageView *cardImageView;
+@property (weak, nonatomic) IBOutlet UITextField *cardNumberTextField;
+@property (weak, nonatomic) IBOutlet UITextField *expDateTextField;
+@property (weak, nonatomic) IBOutlet UITextField *cvvTextField;
+@property (weak, nonatomic) IBOutlet UIImageView *cvvImageView;
+- (IBAction)submitCreditCard:(id)sender;
 
 @end
